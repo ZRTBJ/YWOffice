@@ -1,5 +1,8 @@
 # YWOffice
 
+I get request from you via WeChat (WeiXin maybe) but my boss will accept your request tomorrow.
+There is delay because it needs phone verification and it will be done by tomorrow.
+
 Download Anydesk first and wrote the Anydesk address here
 ![image](https://github.com/user-attachments/assets/2afa9dc6-4c4c-4888-80a4-29f8fb85517a)
 
