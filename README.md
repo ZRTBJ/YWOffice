@@ -14,3 +14,7 @@ Use WeChat to contact.
 Use mail from "mail.163.com" after creating one from it. 
 
 Download and install Whatsapp to your phone, you can download it from "AppStore". AppStore will be in your phone already.
+
+Do not search critical things on your side. Just leave msg to here or skype if you want any.
+
+I hope you only focusing on buying and learning and catching good things.
